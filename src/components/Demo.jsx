@@ -24,7 +24,7 @@ const Demo = () => {
           <h3>Advertisement</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-            tempor quis nulla eu tristique. Nulla interdum sapien tellus, ut
+            re tempor quis nulla eu tristique. Nulla interdum sapien tellus, ut
             condimentum purus dapibus eget. Vestibulum mollis eleifend sapien.
             Curabitur pulvinar condimentum est. Etiam et egestas dui, ac
             bibendum lacus. Donec eget ligula nec sem consectetur molestie sed
